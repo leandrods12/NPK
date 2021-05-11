@@ -1,0 +1,15 @@
+.caixa{
+    align-items: center !important;
+	background-color: white !important;
+	max-width: 350px !important;
+	padding: 2rem !important;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.2) !important;
+	border-radius: 8px !important;
+}
+.center{
+    background-color: DarkGray !important;
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+	align-items: center !important;
+}
